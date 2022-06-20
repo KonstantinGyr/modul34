@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/hw34/qt_set/cmake-build-debug/CMakeFiles/MyApp.dir
+C:/Users/Kot/CLionProjects/hw34/qt_set/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw34/qt_set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
