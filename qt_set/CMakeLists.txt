@@ -16,7 +16,7 @@ add_executable(MyApp main.cpp)
 target_link_libraries(MyApp
         Qt5::Core
         Qt5::Gui
-        QT5::Widgets)
+        Qt5::Widgets)
 
 
 

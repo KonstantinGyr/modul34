@@ -16,6 +16,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_TARGET_DEFINITIONS_CXX
   "QT_CORE_LIB"
   "QT_GUI_LIB"
+  "QT_WIDGETS_LIB"
   )
 
 # The include file search paths:
@@ -25,6 +26,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"
   "C:/Qt/5.15.2/mingw81_64/include/QtGui"
   "C:/Qt/5.15.2/mingw81_64/include/QtANGLE"
+  "C:/Qt/5.15.2/mingw81_64/include/QtWidgets"
   )
 
 # The set of dependency files which are needed:

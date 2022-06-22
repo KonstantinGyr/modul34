@@ -88,6 +88,7 @@ MyApp_EXTERNAL_OBJECTS =
 
 MyApp.exe: CMakeFiles/MyApp.dir/main.cpp.obj
 MyApp.exe: CMakeFiles/MyApp.dir/build.make
+MyApp.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Widgets.a
 MyApp.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Gui.a
 MyApp.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Core.a
 MyApp.exe: CMakeFiles/MyApp.dir/linklibs.rsp
