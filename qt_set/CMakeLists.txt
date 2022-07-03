@@ -7,7 +7,7 @@ set(CMAKE_PREFIX_PATH "C:/Qt/5.15.2/mingw81_64/lib/cmake")
 
 find_package(Qt5 COMPONENTS
         Core
-        gui
+        Gui
         Widgets
         REQUIRED)
 
